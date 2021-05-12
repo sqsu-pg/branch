@@ -2,3 +2,4 @@ dev branch
 git fetch 
 pull shi de wenti 
 rebase
+learn git fetch origin/remote -> local/(the name my)
